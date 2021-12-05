@@ -14,6 +14,7 @@ The main results of the summary are that:
 ![Weekly fare summary](https://github.com/drruff/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
   - Rural makes around one tenth that urban does, and suburban being around one third.
+
 ![Dataframe results](https://github.com/drruff/PyBer_Analysis/blob/main/analysis/Weekly%20fares%20data.PNG)
 
 
